@@ -1,8 +1,8 @@
-# 🎬 Fashion AI Pipeline - Flickd Hackathon
+# 🎬 Fashion AI Pipeline 
 
 **Smart Tagging & Vibe Classification Engine for Fashion Videos**
 
-A complete AI pipeline that processes fashion videos to detect clothing items, match them to product catalogs, and classify aesthetic vibes. Built for the Flickd AI Hackathon.
+A complete AI pipeline that processes fashion videos to detect clothing items, match them to product catalogs, and classify aesthetic vibes.
 
 ## 🎯 What It Does
 
